@@ -1,0 +1,68 @@
+*{
+    font-family: Sans-serif;
+	margin: 0px 0px;
+}
+
+.top{
+    background-color: blue;
+    display: block;
+    padding: 20px;
+    height: 15vh;
+    color:white;
+}
+
+.left{
+    background-color: yellow ;
+    float: left;
+    width: 22vw;
+    display: block;
+    position: relative;
+    top: -73vh;
+    height: 70vh;
+    text-align: center; 
+    color:white;
+}
+
+.right{
+    background-color: yellow ;
+    float: right;
+    width: 22vw;
+    height: 70vh;
+    text-align: center; 
+    position: relative;
+    top: -73vh;
+    color:white;
+}
+
+.central{
+    margin: auto;
+    width: 50vw;
+    height: 70vh;
+    text-align: center;  
+    padding: 15px; 
+}
+
+.photo{
+    width: 800px;  
+    height: auto;
+    text-align: center;  
+    padding: 15px;  
+         
+}
+
+.bottom{
+    background-color: black;
+    color:white;
+    height: 15vh;
+    text-align: center; 
+    position: relative;
+    top: -3vh;
+}
+
+.title_main{
+    font-size: 5em;
+}
+
+.title_secondary{
+    font-size: 3em;
+}
