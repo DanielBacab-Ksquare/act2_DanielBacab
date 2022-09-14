@@ -12,26 +12,28 @@
 }
 
 .left{
-    background-color: yellow ;
+    background-color: yellowgreen ;
     float: left;
     width: 22vw;
     display: block;
     position: relative;
-    top: -73vh;
+    top: -73.1vh;
     height: 70vh;
     text-align: center; 
     color:white;
+
 }
 
 .right{
-    background-color: yellow ;
+    background-color: yellowgreen;
     float: right;
     width: 22vw;
     height: 70vh;
     text-align: center; 
     position: relative;
-    top: -73vh;
+    top: -73.1vh;
     color:white;
+
 }
 
 .central{
@@ -43,7 +45,7 @@
 }
 
 .photo{
-    width: 800px;  
+    width: 700px;  
     height: auto;
     text-align: center;  
     padding: 15px;  
@@ -56,13 +58,33 @@
     height: 15vh;
     text-align: center; 
     position: relative;
-    top: -3vh;
+    top: -3.1vh;
+    font-size: 30px;
 }
 
+.restaurants{
+    padding: 30px;
+}
 .title_main{
     font-size: 5em;
 }
 
 .title_secondary{
     font-size: 3em;
+}
+
+.note{
+    font-style: italic;
+    padding: 20px;
+}
+
+.item{
+    padding: 15px;
+    font-size: 20px;
+}
+
+.main_text{
+    font-size: 18px;
+    padding: 15px;
+    font-weight: bold;
 }
